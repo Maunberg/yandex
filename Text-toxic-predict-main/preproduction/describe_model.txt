@@ -1,0 +1,1 @@
+Данная тетрадка позволяет использовать самую простейшую модель из проекта с графическим интерфейсом: https://colab.research.google.com/drive/15cPEUjp0hL1ZjRpyQbX_bf98GMjC7BhF?usp=sharing
