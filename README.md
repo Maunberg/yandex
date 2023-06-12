@@ -1,2 +1,2 @@
 # yandex
-Yandex Practicum Study
+Projects from Yandex Practicum Study
